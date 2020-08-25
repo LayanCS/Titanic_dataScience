@@ -7,3 +7,6 @@ I used different Python libraries to clean, correct, and complete the data. Then
 
 
 Accuracy: 82%
+
+![image of plots](https://github.com/LayanCS/Titanic_dataScience/blob/master/plots.png)
+![image of accuracy](https://github.com/LayanCS/Titanic_dataScience/blob/master/ML_accuracy.png)
