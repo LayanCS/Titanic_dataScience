@@ -1,5 +1,5 @@
-# Titanic_dataScience
-Predict survival on the Titanic... Project from Kaggle
+# Titanic_dataset
+Predict survival on the Titanic. Dataset from Kaggle.
 
 My first Kaggle project. The  objective was to predict wither a person survived or didn't survive the Titanic shipwreck. 
 
